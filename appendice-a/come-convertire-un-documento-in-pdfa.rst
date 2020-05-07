@@ -66,21 +66,21 @@ Una volta caricato il file, comparirà la seguente schermata.
 È quindi possibile scaricare il file nel formato PDF/A cliccando sul
 pulsante azzurro contenente il nome del file con estensione .pdf.
 
-.. |image0| image:: ././media/image66.png
+.. |image0| image:: ../../media/image66.png
    :width: 6.03121in
    :height: 2.24349in
-.. |image1| image:: ././media/image136.png
+.. |image1| image:: ../../media/image136.png
    :width: 3.21871in
    :height: 3.20893in
-.. |image2| image:: ././media/image90.png
+.. |image2| image:: ../../media/image90.png
    :width: 3.32091in
    :height: 1.01802in
-.. |image3| image:: ././media/image140.png
+.. |image3| image:: ../../media/image140.png
    :width: 4.20935in
    :height: 3.20868in
-.. |image4| image:: ././media/image27.png
+.. |image4| image:: ../../media/image27.png
    :width: 5.07345in
    :height: 2.086in
-.. |image5| image:: ././media/image21.png
+.. |image5| image:: ../../media/image21.png
    :width: 5.17413in
    :height: 2.05475in
