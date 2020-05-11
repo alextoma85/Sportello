@@ -59,6 +59,10 @@ Quindi premi il pulsante |image10| per permettere al sistema di caricare
 in automatico i tuoi dati di residenza ed eventuali dati anagrafici
 ulteriori.
 
+.. important:: il sistema è in grado di recuperare i dati dei soli **cittadini
+  residenti nel Comune di Trento**. Gli utenti residenti in altri comuni
+  devono invece compilare manualmente anche i campi anagrafici
+
 |image11|
 
 |image12|
