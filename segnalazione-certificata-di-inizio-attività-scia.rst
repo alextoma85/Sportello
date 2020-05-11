@@ -59,10 +59,7 @@ presentazione cartaceo.
   :caption: Indice dei contenuti
 
   segnalazione-certificata-di-inizio-attività-scia/compilazione-del-modulo-online.rst
-  segnalazione-certificata-di-inizio-attività-scia/interfaccia-di-completamento-dellistanza.rst
-  segnalazione-certificata-di-inizio-attività-scia/moduli-secondari.rst
-  segnalazione-certificata-di-inizio-attività-scia/allegati.rst
-  segnalazione-certificata-di-inizio-attività-scia/invio-e-protocollazione-dellistanza.rst
+
 
 .. |image0| image:: /media/image83.png
    :width: 4.56246in

@@ -26,6 +26,7 @@ numero 0461.884798 durante gli orari di apertura al pubblico. 
   cosè-lo-sportello-online.rst
   utilizzare-lo-sportello-online.rst
   pratiche-edilizie-sezione-edilizia.rst
+  segnalazione-certificata-di-inizio-attività-scia.rst
   appendice-a.rst
 
 .. |image0| image:: /media/image75.png
