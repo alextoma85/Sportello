@@ -46,7 +46,6 @@ aggiuntive relative al modulo (o all'allegato), come mostrato in figura.
 .. _section-8:
 
 |image9|
---------
 
 **Nota bene:** Il fac-simile PDF del modulo NON E’ utilizzabile per la
 presentazione dell’istanza, in quanto non è ammesso il canale di
