@@ -58,7 +58,7 @@ presentazione cartaceo.
   :caption: Indice dei contenuti
 
   segnalazione-certificata-di-inizio-atttività-scia/compilazione-del-modulo-on
-  line.rst 
+line.rst 
   segnalazione-certificata-di-inizio-attività-scia/allegati.rst
 
 
