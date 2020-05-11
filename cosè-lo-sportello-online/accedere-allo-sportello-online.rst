@@ -1,3 +1,5 @@
+.. _AccessoSportelloOnline:
+
 1.3 Accedere allo Sportello Online
 ==================================
 
