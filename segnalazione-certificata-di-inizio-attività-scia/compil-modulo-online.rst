@@ -3,7 +3,7 @@
 
 Ti mostriamo ora come compilare il modulo.
 
-:: important ATTENZIONE: la compilazione online può essere eseguita SOLO
+.. important:: ATTENZIONE: la compilazione online può essere eseguita SOLO
 dal gettista/tecnico incaricato, delegato dal titolare
 
 4.1.1 Sei il progettista/tecnico incaricato ma non anche il titolare
