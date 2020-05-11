@@ -45,36 +45,36 @@ relativi all’istanza che hai inviato, come mostrato in figura.
 Termina qui il processo per una corretta compilazione e invio della
 segnalazione certificata di inizio attività.
 
-.. |image0| image:: ./media/image108.png
+.. |image0| image:: /media/image108.png
    :width: 7.08973in
    :height: 3.66667in
-.. |image1| image:: ./media/image8.png
+.. |image1| image:: /media/image8.png
    :width: 1.15826in
    :height: 0.38542in
-.. |image2| image:: ./media/image125.png
+.. |image2| image:: /media/image125.png
    :width: 4.98757in
    :height: 2.69599in
-.. |image3| image:: ./media/image8.png
+.. |image3| image:: /media/image8.png
    :width: 1.15826in
    :height: 0.38542in
-.. |image4| image:: ./media/image151.png
+.. |image4| image:: /media/image151.png
    :width: 7.08973in
    :height: 6.79167in
-.. |https://lh6.googleusercontent.com/c075oDIzLfbZGV952lyns7iqwUeT2hzYRJc2xRtdGjHvWLUrN94oo_LYLnwDp5Ti78gUiy55ezmBm5eEIzTnUJwY4-NIs2TzADCUNN81CHxvIiqUanp2YF2g3iAHz_BeIh1s1GtA| image:: ./media/image146.png
+.. |https://lh6.googleusercontent.com/c075oDIzLfbZGV952lyns7iqwUeT2hzYRJc2xRtdGjHvWLUrN94oo_LYLnwDp5Ti78gUiy55ezmBm5eEIzTnUJwY4-NIs2TzADCUNN81CHxvIiqUanp2YF2g3iAHz_BeIh1s1GtA| image:: /media/image146.png
    :width: 0.23264in
    :height: 0.23264in
-.. |image6| image:: ./media/image62.png
+.. |image6| image:: /media/image62.png
    :width: 5.86454in
    :height: 6.72159in
-.. |image7| image:: ./media/image31.png
+.. |image7| image:: /media/image31.png
    :width: 5.68549in
    :height: 1.43655in
-.. |image8| image:: ./media/image11.png
+.. |image8| image:: /media/image11.png
    :width: 5.67507in
    :height: 1.84465in
-.. |image9| image:: ./media/image134.png
+.. |image9| image:: /media/image134.png
    :width: 5.66466in
    :height: 1.49917in
-.. |image10| image:: ./media/image88.png
+.. |image10| image:: /media/image88.png
    :width: 5.67507in
    :height: 1.43904in

@@ -35,21 +35,21 @@ riceverà l’istanza (in questo caso: Innovazione e servizi digitali).
 
 |image5|
 
-.. |image0| image:: ./media/image56.png
+.. |image0| image:: /media/image56.png
    :width: 1.29306in
    :height: 0.34861in
-.. |image1| image:: ./media/image19.png
+.. |image1| image:: /media/image19.png
    :width: 6.83607in
    :height: 2.32616in
-.. |image2| image:: ./media/image132.png
+.. |image2| image:: /media/image132.png
    :width: 3.98958in
    :height: 2.90625in
-.. |image3| image:: ./media/image46.png
+.. |image3| image:: /media/image46.png
    :width: 6.53503in
    :height: 2.84642in
-.. |image4| image:: ./media/image8.png
+.. |image4| image:: /media/image8.png
    :width: 1.15826in
    :height: 0.38542in
-.. |image5| image:: ./media/image77.png
+.. |image5| image:: /media/image77.png
    :width: 4.52567in
    :height: 2.0235in

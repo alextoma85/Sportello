@@ -64,33 +64,33 @@ presentazione cartaceo.
   segnalazione-certificata-di-inizio-attività-scia/allegati.rst
   segnalazione-certificata-di-inizio-attività-scia/invio-e-protocollazione-dellistanza.rst
 
-.. |image0| image:: ./media/image83.png
+.. |image0| image:: /media/image83.png
    :width: 4.56246in
    :height: 2.06976in
-.. |image1| image:: ./media/image39.png
+.. |image1| image:: /media/image39.png
    :width: 7.08973in
    :height: 5.29167in
-.. |image2| image:: ./media/image18.png
+.. |image2| image:: /media/image18.png
    :width: 4.43541in
    :height: 1.37767in
-.. |image3| image:: ./media/image152.png
+.. |image3| image:: /media/image152.png
    :width: 5.84896in
    :height: 2.86149in
-.. |image4| image:: ./media/image153.png
+.. |image4| image:: /media/image153.png
    :width: 1.71111in
    :height: 0.40694in
-.. |image5| image:: ./media/image102.png
+.. |image5| image:: /media/image102.png
    :width: 6.53125in
    :height: 1.30424in
-.. |image6| image:: ./media/image73.png
+.. |image6| image:: /media/image73.png
    :width: 6.42507in
    :height: 0.47631in
-.. |image7| image:: ./media/image145.png
+.. |image7| image:: /media/image145.png
    :width: 0.3125in
    :height: 0.34375in
-.. |image8| image:: ./media/image61.png
+.. |image8| image:: /media/image61.png
    :width: 0.26428in
    :height: 0.32091in
-.. |image9| image:: ./media/image115.png
+.. |image9| image:: /media/image115.png
    :width: 6.51882in
    :height: 3.8194in

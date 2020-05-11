@@ -169,102 +169,102 @@ aprirà sulla destra della schermata.
 
 .. _section-11:
 
-.. |image0| image:: ./media/image89.png
+.. |image0| image:: ./mediaimage89.png
    :width: 6.68229in
    :height: 4.94571in
-.. |image1| image:: ./media/image131.png
+.. |image1| image:: /media/image131.png
    :width: 3.82292in
    :height: 0.95833in
-.. |image2| image:: ./media/image25.png
+.. |image2| image:: /media/image25.png
    :width: 6.55007in
    :height: 0.72917in
-.. |image3| image:: ./media/image24.png
+.. |image3| image:: /media/image24.png
    :width: 0.28966in
    :height: 0.25in
-.. |image4| image:: ./media/image32.png
+.. |image4| image:: /media/image32.png
    :width: 7.08973in
    :height: 1.65278in
-.. |image5| image:: ./media/image105.png
+.. |image5| image:: /media/image105.png
    :width: 7.08973in
    :height: 1.70833in
-.. |image6| image:: ./media/image14.png
+.. |image6| image:: /media/image14.png
    :width: 6.32288in
    :height: 1.51868in
-.. |image7| image:: ./media/image24.png
+.. |image7| image:: /media/image24.png
    :width: 0.29167in
    :height: 0.25201in
-.. |image8| image:: ./media/image87.png
+.. |image8| image:: /media/image87.png
    :width: 5.52083in
    :height: 2.46521in
-.. |image9| image:: ./media/image33.png
+.. |image9| image:: /media/image33.png
    :width: 5.56197in
    :height: 2.0235in
-.. |image10| image:: ./media/image58.png
+.. |image10| image:: /media/image58.png
    :width: 1.44375in
    :height: 0.29028in
-.. |image11| image:: ./media/image69.png
+.. |image11| image:: /media/image69.png
    :width: 7.06049in
    :height: 2.57197in
-.. |image12| image:: ./media/image85.png
+.. |image12| image:: /media/image85.png
    :width: 7.03966in
    :height: 2.5779in
-.. |image13| image:: ./media/image117.png
+.. |image13| image:: /media/image117.png
    :width: 7.05007in
    :height: 3.76072in
-.. |image14| image:: ./media/image70.png
+.. |image14| image:: /media/image70.png
    :width: 7.03966in
    :height: 2.3879in
-.. |image15| image:: ./media/image23.png
+.. |image15| image:: /media/image23.png
    :width: 7.01092in
    :height: 2.41933in
-.. |image16| image:: ./media/image54.png
+.. |image16| image:: /media/image54.png
    :width: 6.25204in
    :height: 4.66378in
-.. |image17| image:: ./media/image149.png
+.. |image17| image:: /media/image149.png
    :width: 7.07091in
    :height: 2.62693in
-.. |image18| image:: ./media/image56.png
+.. |image18| image:: /media/image56.png
    :width: 1.29306in
    :height: 0.34861in
-.. |image19| image:: ./media/image122.png
+.. |image19| image:: /media/image122.png
    :width: 7.03966in
    :height: 1.38542in
-.. |image20| image:: ./media/image56.png
+.. |image20| image:: /media/image56.png
    :width: 1.29306in
    :height: 0.34861in
-.. |image21| image:: ./media/image67.png
+.. |image21| image:: /media/image67.png
    :width: 4.75521in
    :height: 1.55908in
-.. |image22| image:: ./media/image13.png
+.. |image22| image:: /media/image13.png
    :width: 0.94039in
    :height: 0.26042in
-.. |image23| image:: ./media/image13.png
+.. |image23| image:: /media/image13.png
    :width: 0.94039in
    :height: 0.26042in
-.. |image24| image:: ./media/image100.png
+.. |image24| image:: /media/image100.png
    :width: 4.69775in
    :height: 2.19017in
-.. |image25| image:: ./media/image13.png
+.. |image25| image:: /media/image13.png
    :width: 0.94039in
    :height: 0.26042in
-.. |image26| image:: ./media/image19.png
+.. |image26| image:: /media/image19.png
    :width: 6.83607in
    :height: 2.32616in
-.. |image27| image:: ./media/image132.png
+.. |image27| image:: /media/image132.png
    :width: 3.98958in
    :height: 2.90625in
-.. |image28| image:: ./media/image48.png
+.. |image28| image:: /media/image48.png
    :width: 6.69893in
    :height: 2.12477in
-.. |image29| image:: ./media/image67.png
+.. |image29| image:: /media/image67.png
    :width: 0.94039in
    :height: 0.26042in
-.. |image30| image:: ./media/image45.png
+.. |image30| image:: /media/image45.png
    :width: 0.33132in
    :height: 0.32292in
-.. |image31| image:: ./media/image30.png
+.. |image31| image:: /media/image30.png
    :width: 6.87944in
    :height: 4.12767in
-.. |image32| image:: ./media/image92.png
+.. |image32| image:: /media/image92.png
    :width: 7.08973in
    :height: 4.19444in

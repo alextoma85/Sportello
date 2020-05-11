@@ -25,6 +25,6 @@ Nello specifico nell’area tematica edilizia troverai i seguenti servizi:
 
 -  **Segnalazione certificata di inizio attività (Scia)**
 
-.. |image0| image:: ./media/image162.png
+.. |image0| image:: media/image162.png
    :width: 6.88341in
    :height: 3.02223in

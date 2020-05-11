@@ -271,108 +271,108 @@ Rientrano in questa tipologia i seguenti moduli secondari
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
    sezione `4.4 Allegati <#allegati>`__.
 
-.. |image0| image:: ./media/image79.png
+.. |image0| image:: /media/image79.png
    :width: 7.08973in
    :height: 2.61111in
-.. |image1| image:: ./media/image22.png
+.. |image1| image:: /media/image22.png
    :width: 4.54834in
    :height: 2.8631in
-.. |image2| image:: ./media/image47.png
+.. |image2| image:: /media/image47.png
    :width: 0.28717in
    :height: 0.26922in
-.. |image3| image:: ./media/image86.png
+.. |image3| image:: /media/image86.png
    :width: 6.16871in
    :height: 1.56709in
-.. |image4| image:: ./media/image35.png
+.. |image4| image:: /media/image35.png
    :width: 6.27924in
    :height: 0.55208in
-.. |image5| image:: ./media/image38.png
+.. |image5| image:: /media/image38.png
    :width: 4.35216in
    :height: 1.74641in
-.. |image6| image:: ./media/image9.png
+.. |image6| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image7| image:: ./media/image144.png
+.. |image7| image:: /media/image144.png
    :width: 6.10216in
    :height: 1.46258in
-.. |image8| image:: ./media/image12.png
+.. |image8| image:: /media/image12.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image9| image:: ./media/image114.png
+.. |image9| image:: /media/image114.png
    :width: 5.97716in
    :height: 2.22059in
-.. |image10| image:: ./media/image9.png
+.. |image10| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image11| image:: ./media/image64.png
+.. |image11| image:: /media/image64.png
    :width: 6.56049in
    :height: 1.5686in
-.. |image12| image:: ./media/image12.png
+.. |image12| image:: /media/image12.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image13| image:: ./media/image7.png
+.. |image13| image:: /media/image7.png
    :width: 6.68182in
    :height: 1.45058in
-.. |image14| image:: ./media/image9.png
+.. |image14| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image15| image:: ./media/image95.png
+.. |image15| image:: /media/image95.png
    :width: 6.46321in
    :height: 1.50903in
-.. |image16| image:: ./media/image59.png
+.. |image16| image:: /media/image59.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image17| image:: ./media/image44.png
+.. |image17| image:: /media/image44.png
    :width: 6.38862in
    :height: 1.495in
-.. |image18| image:: ./media/image113.png
+.. |image18| image:: /media/image113.png
    :width: 5.93549in
    :height: 0.84544in
-.. |image19| image:: ./media/image9.png
+.. |image19| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image20| image:: ./media/image65.png
+.. |image20| image:: /media/image65.png
    :width: 6.55007in
    :height: 1.59375in
-.. |image21| image:: ./media/image59.png
+.. |image21| image:: /media/image59.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image22| image:: ./media/image52.png
+.. |image22| image:: /media/image52.png
    :width: 6.56049in
    :height: 1.42127in
-.. |image23| image:: ./media/image9.png
+.. |image23| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image24| image:: ./media/image59.png
+.. |image24| image:: /media/image59.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image25| image:: ./media/image12.png
+.. |image25| image:: /media/image12.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image26| image:: ./media/image63.png
+.. |image26| image:: /media/image63.png
    :width: 6.5738in
    :height: 1.77618in
-.. |image27| image:: ./media/image9.png
+.. |image27| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image28| image:: ./media/image157.png
+.. |image28| image:: /media/image157.png
    :width: 6.66466in
    :height: 1.45833in
-.. |image29| image:: ./media/image59.png
+.. |image29| image:: /media/image59.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image30| image:: ./media/image133.png
+.. |image30| image:: /media/image133.png
    :width: 6.66042in
    :height: 1.45058in
-.. |image31| image:: ./media/image9.png
+.. |image31| image:: /media/image9.png
    :width: 0.26134in
    :height: 0.25201in
-.. |image32| image:: ./media/image159.png
+.. |image32| image:: /media/image159.png
    :width: 6.67003in
    :height: 4.22142in
-.. |image33| image:: ./media/image59.png
+.. |image33| image:: /media/image59.png
    :width: 0.24568in
    :height: 0.24568in
-.. |image34| image:: ./media/image138.png
+.. |image34| image:: /media/image138.png
    :width: 6.67084in
    :height: 3.41933in
