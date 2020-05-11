@@ -58,8 +58,6 @@ presentazione cartaceo.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  segnalazione-certificata-di-inizio-attività-scia/compilazione-del-modulo-online.rst
-
 
 .. |image0| image:: /media/image83.png
    :width: 4.56246in
