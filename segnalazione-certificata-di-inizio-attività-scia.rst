@@ -58,7 +58,8 @@ presentazione cartaceo.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  segnalazione-certificata-di-inizio-attività-scia/interfaccia-di-completamento-dellistanza.rst
+  segnalazione-certificata-di-inizio-attività-scia/allegati.rst
+
 
 
 .. |image0| image:: /media/image83.png
