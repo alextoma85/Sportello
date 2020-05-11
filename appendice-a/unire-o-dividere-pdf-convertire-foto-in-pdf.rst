@@ -75,24 +75,24 @@ Free:
 
 |image6|
 
-.. |image0| image:: ./media/image164.png
+.. |image0| image:: /media/image164.png
    :width: 6.72509in
    :height: 4.29433in
-.. |image1| image:: ./media/image110.png
+.. |image1| image:: /media/image110.png
    :width: 4.14579in
    :height: 2.99306in
-.. |image2| image:: ./media/image129.png
+.. |image2| image:: /media/image129.png
    :width: 4.17183in
    :height: 3.27373in
-.. |image3| image:: ./media/image118.png
+.. |image3| image:: /media/image118.png
    :width: 4.07288in
    :height: 2.94152in
-.. |image4| image:: ./media/image51.png
+.. |image4| image:: /media/image51.png
    :width: 3.86454in
    :height: 2.93205in
-.. |image5| image:: ./media/image34.png
+.. |image5| image:: /media/image34.png
    :width: 3.72716in
    :height: 2.69184in
-.. |image6| image:: ./media/image72.png
+.. |image6| image:: /media/image72.png
    :width: 3.14058in
    :height: 3.21558in

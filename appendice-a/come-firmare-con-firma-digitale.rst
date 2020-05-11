@@ -75,33 +75,33 @@ come **“Firmato con successo”**
 
 |image9|
 
-.. |image0| image:: ./media/image71.png
+.. |image0| image:: /media/image71.png
    :width: 0.25in
    :height: 0.23704in
-.. |image1| image:: ./media/image161.png
+.. |image1| image:: /media/image161.png
    :width: 5.32813in
    :height: 1.30286in
-.. |image2| image:: ./media/image163.png
+.. |image2| image:: /media/image163.png
    :width: 6.91292in
    :height: 1.35417in
-.. |image3| image:: ./media/image150.png
+.. |image3| image:: /media/image150.png
    :width: 6.91868in
    :height: 3.67033in
-.. |image4| image:: ./media/image71.png
+.. |image4| image:: /media/image71.png
    :width: 0.25296in
    :height: 0.25in
-.. |image5| image:: ./media/image93.png
+.. |image5| image:: /media/image93.png
    :width: 6.63021in
    :height: 1.63266in
-.. |image6| image:: ./media/image81.png
+.. |image6| image:: /media/image81.png
    :width: 4.02079in
    :height: 1.15281in
-.. |image7| image:: ./media/image38.png
+.. |image7| image:: /media/image38.png
    :width: 4.625in
    :height: 1.84421in
-.. |image8| image:: ./media/image60.png
+.. |image8| image:: /media/image60.png
    :width: 5.39583in
    :height: 1.84775in
-.. |image9| image:: ./media/image16.png
+.. |image9| image:: /media/image16.png
    :width: 7.08973in
    :height: 0.56944in

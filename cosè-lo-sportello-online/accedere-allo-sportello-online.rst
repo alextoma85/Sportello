@@ -44,24 +44,24 @@ Quindi segui la procedura prevista dal tuo fornitore per l’accesso con
 SPID, ad esempio inserendo nome utente, password e *one time password*
 (OTP), identificandoti con QRCode, eccetera.
 
-.. |image0| image:: ./media/image78.png
+.. |image0| image:: /media/image78.png
    :width: 0.75764in
    :height: 0.34861in
-.. |image1| image:: ./media/image28.png
+.. |image1| image:: /media/image28.png
    :width: 7.07444in
    :height: 3.33368in
-.. |image2| image:: ./media/image119.png
+.. |image2| image:: /media/image119.png
    :width: 4.30104in
    :height: 3.68565in
-.. |image3| image:: ./media/image49.png
+.. |image3| image:: /media/image49.png
    :width: 3.89583in
    :height: 3.3598in
-.. |image4| image:: ./media/image128.png
+.. |image4| image:: /media/image128.png
    :width: 5.06146in
    :height: 4.3249in
-.. |image5| image:: ./media/image96.png
+.. |image5| image:: /media/image96.png
    :width: 4.08229in
    :height: 3.52994in
-.. |image6| image:: ./media/image124.png
+.. |image6| image:: /media/image124.png
    :width: 1.63017in
    :height: 3.40944in
