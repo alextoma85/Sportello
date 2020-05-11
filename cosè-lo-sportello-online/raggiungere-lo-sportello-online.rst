@@ -35,18 +35,18 @@ nella homepage del sito del Comune di Trento:
 
 |image4|
 
-.. |image0| image:: ./media/image139.png
+.. |image0| image:: /media/image139.png
    :width: 5.52284in
    :height: 2.57668in
-.. |image1| image:: ./media/image121.png
+.. |image1| image:: /media/image121.png
    :width: 5.38743in
    :height: 2.39145in
-.. |image2| image:: ./media/image40.png
+.. |image2| image:: /media/image40.png
    :width: 3.275in
    :height: 3.07292in
-.. |image3| image:: ./media/image94.png
+.. |image3| image:: /media/image94.png
    :width: 2.05833in
    :height: 1.17708in
-.. |image4| image:: ./media/image155.png
+.. |image4| image:: /media/image155.png
    :width: 2.72392in
    :height: 3.35739in

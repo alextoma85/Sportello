@@ -20,8 +20,10 @@ obbligatoriamente garantire per l'accesso ai propri servizi.
 indicazioni presenti sul `portale dei servizi online della Provincia di
 Trento <https://www.servizionline.provincia.tn.it/portale/richiedi_spid/1089/richiedi_spid/322234>`__.
 
-1.1.2 Cos’è la Tessera Sanitaria/Carta Provinciale dei Servizi (CPS) |image1|
+1.1.2 Cos’è la Tessera Sanitaria/Carta Provinciale dei Servizi (CPS) 
 -----------------------------------------------------------------------------
+
+|image1|
 
 È attualmente ancora possibile (almeno nella Provincia di Trento)
 accedere ai servizi online **trasformando la propria tessera sanitaria
@@ -76,9 +78,10 @@ carta (uno per nucleo familiare).
 trasformate in CRS (Carta Regionale dei Servizi) possono essere
 utilizzate per accedere ai servizi online.
 
-1.1.3 Cos’è la Carta Nazionale dei Servizi (CNS)|image2|
+1.1.3 Cos’è la Carta Nazionale dei Servizi (CNS)
 --------------------------------------------------------
 
+|image2|
 Equivalente alla CPS, la Carta Nazionale dei Servizi (CNS) è uno
 strumento attraverso il quale i cittadini sono riconosciuti in rete in
 modo certo, potendo così usufruire dei servizi online erogati dalle
@@ -91,12 +94,12 @@ dispositivo elettronico con l'aspetto e le dimensioni di una normale
 carta di credito (*smart card*) o di una penna USB (*token USB*). Per i
 professionisti è spesso associata alla firma digitale.
 
-.. |image0| image:: ./media/image29.png
+.. |image0| image:: /media/image29.png
    :width: 3.44915in
    :height: 0.9691in
-.. |image1| image:: ./media/image154.png
+.. |image1| image:: /media/image154.png
    :width: 2.12986in
    :height: 1.23194in
-.. |image2| image:: ./media/image160.png
+.. |image2| image:: /media/image160.png
    :width: 2.65729in
    :height: 1.6044in
