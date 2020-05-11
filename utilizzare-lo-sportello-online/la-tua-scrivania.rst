@@ -46,7 +46,7 @@ In questa pagina puoi visualizzare l’elenco delle istanze da te aperte
 ma non ancora completate e inviate
 
 |image5|
---------
+
 
 2.2.3.3 Compilazioni inviate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,7 +56,6 @@ Selezionando le singole pratiche puoi inoltre visualizzare il relativo
 numero di protocollo e la data di protocollazione
 
 |image6|
---------
 
 
 .. |image0| image:: /media/image76.png
