@@ -169,7 +169,7 @@ aprirà sulla destra della schermata.
 
 .. _section-11:
 
-.. |image0| image:: ./mediaimage89.png
+.. |image0| image:: /media/image89.png
    :width: 6.68229in
    :height: 4.94571in
 .. |image1| image:: /media/image131.png
