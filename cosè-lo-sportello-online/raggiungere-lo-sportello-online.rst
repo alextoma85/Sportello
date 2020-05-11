@@ -26,8 +26,7 @@ per accedere direttamente allo Sportello.
 ===================
 
 **N.B.** Prima di compilare la pratica dovrai effettuare l’accesso allo
-Sportello, come spiegato nella sezione :ref:`AccessoSportelloOnline` 
-`1.3 Accedere allo Sportello Online <#accedere-allo-sportello-online>`__.
+Sportello, come spiegato nella sezione :ref:`AccessoSportelloOnline`.
 
 I link diretti allo Sportello e al Catalogo servizi si trovano anche
 nella homepage del sito del Comune di Trento:
