@@ -72,36 +72,36 @@ Sportello
 
 Se l’operazione sarà andata a buon fine comparirà la seguente schermata
 
-| 
+|
 | |image9|
 
-.. |image0| image:: ./media/image76.png
+.. |image0| image:: /media/image76.png
    :width: 5.78646in
    :height: 3.5252in
-.. |image1| image:: ./media/image80.png
+.. |image1| image:: /media/image80.png
    :width: 6.05208in
    :height: 2.94792in
-.. |image2| image:: ./media/image106.png
+.. |image2| image:: /media/image106.png
    :width: 7.03966in
    :height: 3.36898in
-.. |image3| image:: ./media/image127.png
+.. |image3| image:: /media/image127.png
    :width: 7.09501in
    :height: 3.32813in
-.. |image4| image:: ./media/image42.png
+.. |image4| image:: /media/image42.png
    :width: 6.69583in
    :height: 2.88889in
-.. |image5| image:: ./media/image104.png
+.. |image5| image:: /media/image104.png
    :width: 7.08981in
    :height: 3.45833in
-.. |image6| image:: ./media/image130.png
+.. |image6| image:: /media/image130.png
    :width: 7.08981in
    :height: 3.45833in
-.. |image7| image:: ./media/image158.png
+.. |image7| image:: /media/image158.png
    :width: 0.94375in
    :height: 0.36042in
-.. |image8| image:: ./media/image103.png
+.. |image8| image:: /media/image103.png
    :width: 6.42507in
    :height: 3.05241in
-.. |image9| image:: ./media/image126.png
+.. |image9| image:: /media/image126.png
    :width: 5.84375in
    :height: 2.38542in

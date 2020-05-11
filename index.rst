@@ -24,6 +24,7 @@ numero 0461.884798 durante gli orari di apertura al pubblico. 
   :caption: Indice dei contenuti
 
   cosè-lo-sportello-online.rst
+  utilizzare-lo-sportello-online.rst
 
 .. |image0| image:: /media/image75.png
    :width: 6.27083in

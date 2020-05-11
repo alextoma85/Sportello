@@ -33,24 +33,24 @@ Accedere allo Sportello Online <#accedere-allo-sportello-online>`__.
 
 |image6|
 
-.. |image0| image:: ./media/image101.png
+.. |image0| image:: /media/image101.png
    :width: 6.84379in
    :height: 3.37586in
-.. |image1| image:: ./media/image83.png
+.. |image1| image:: /media/image83.png
    :width: 6.13161in
    :height: 2.7816in
-.. |image2| image:: ./media/image39.png
+.. |image2| image:: /media/image39.png
    :width: 4.27079in
    :height: 3.18016in
-.. |image3| image:: ./media/image18.png
+.. |image3| image:: /media/image18.png
    :width: 3.9635in
    :height: 1.22813in
-.. |image4| image:: ./media/image50.png
+.. |image4| image:: /media/image50.png
    :width: 1.4189in
    :height: 0.33465in
-.. |image5| image:: ./media/image111.png
+.. |image5| image:: /media/image111.png
    :width: 4.33456in
    :height: 2.0941in
-.. |image6| image:: ./media/image36.png
+.. |image6| image:: /media/image36.png
    :width: 4.52924in
    :height: 1.22843in

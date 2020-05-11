@@ -15,6 +15,6 @@ servizi e strumenti disponibili. 
   utilizzare-lo-sportello-online/accedi-ai-servizi.rst
   utilizzare-lo-sportello-online/la-tua-scrivania.rst
 
-.. |image0| image:: ./media/image123.png
+.. |image0| image:: /media/image123.png
    :width: 6.33333in
    :height: 2.95833in
