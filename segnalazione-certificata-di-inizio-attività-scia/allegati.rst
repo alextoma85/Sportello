@@ -143,7 +143,6 @@ Dalla stessa schermata potrai:
 .. _section-12:
 
 |image21|
----------
 
 .. _section-13:
 

@@ -168,7 +168,6 @@ aprirà sulla destra della schermata.
 .. _section-10:
 
 |image32|
----------
 
 .. _section-11:
 
