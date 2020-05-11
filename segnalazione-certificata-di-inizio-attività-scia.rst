@@ -43,22 +43,21 @@ PDF cliccando l’icona |image7|, come mostrato in figura. Cliccando
 invece sull'icona |image8| si potranno visualizzare informazioni
 aggiuntive relative al modulo (o all'allegato), come mostrato in figura.
 
-.. _section-8:
-
 |image9|
 
 **Nota bene:** Il fac-simile PDF del modulo NON E’ utilizzabile per la
 presentazione dell’istanza, in quanto non è ammesso il canale di
 presentazione cartaceo.
 
-.. _section-9:
-
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
 
   segnalazione-certificata-di-inizio-attività-scia/compil-modulo-online.rst
+  segnalazione-certificata-di-inizio-attività-scia/completamento-istanza.rst
+  segnalazione-certificata-di-inizio-attività-scia/moduli-secondari.rst
   segnalazione-certificata-di-inizio-attività-scia/allegati.rst
+  segnalazione-certificata-di-inizio-attività-scia/invio-e-protocollazione.rst
 
 
 
