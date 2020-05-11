@@ -23,7 +23,7 @@ protocollata e potrai verificare l’avvenuta protocollazione e il numero
 di protocollo associato alla tua istanza aggiornando l’interfaccia di
 completamento dell’istanza (vedi paragrafo `4.2 Interfaccia di
 completamento dell’istanza <#section-11>`__) cliccando il pulsante
-|https://lh6.googleusercontent.com/c075oDIzLfbZGV952lyns7iqwUeT2hzYRJc2xRtdGjHvWLUrN94oo_LYLnwDp5Ti78gUiy55ezmBm5eEIzTnUJwY4-NIs2TzADCUNN81CHxvIiqUanp2YF2g3iAHz_BeIh1s1GtA|
+|image5|
 in alto a sinistra della schermata del tuo pc, o premendo il tasto
 **F5** sulla tastiera del computer.
 
@@ -60,7 +60,7 @@ segnalazione certificata di inizio attività.
 .. |image4| image:: /media/image151.png
    :width: 7.08973in
    :height: 6.79167in
-.. |https://lh6.googleusercontent.com/c075oDIzLfbZGV952lyns7iqwUeT2hzYRJc2xRtdGjHvWLUrN94oo_LYLnwDp5Ti78gUiy55ezmBm5eEIzTnUJwY4-NIs2TzADCUNN81CHxvIiqUanp2YF2g3iAHz_BeIh1s1GtA| image:: /media/image146.png
+.. |image5| image:: /media/image146.png
    :width: 0.23264in
    :height: 0.23264in
 .. |image6| image:: /media/image62.png
