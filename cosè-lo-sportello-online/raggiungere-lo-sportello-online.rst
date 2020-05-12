@@ -23,7 +23,6 @@ per accedere direttamente allo Sportello.
 .. _section-3:
 
  |image2|\ |image3|
-===================
 
 **N.B.** Prima di compilare la pratica dovrai effettuare l’accesso allo
 Sportello, come spiegato nella sezione :ref:`AccessoSportelloOnline`.
