@@ -29,6 +29,11 @@ in alto a sinistra della schermata del tuo pc, o premendo il tasto
 
 |image6|
 
+.. hint:: annota il numero di protocollo, potrà esserti utile se contatti
+  l’ufficio (potrai comunque visualizzare l’elenco delle istanze che hai
+  inviato e i relativi numeri di protocollo dalla pagina delle compilazioni
+  inviate nella tua Scrivania personale)
+
 L’interfaccia di completamento dell’istanza (vedi paragrafo `4.2
 Interfaccia di completamento dell’istanza <#section-11>`__) ti
 permetterà ora di visualizzare e, se necessario, scaricare alcuni file
