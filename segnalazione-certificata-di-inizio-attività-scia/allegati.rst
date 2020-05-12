@@ -39,11 +39,10 @@ Per istruzioni dettagliate sul processo di firma digitale si rimanda
 alla sezione `5.2 Come firmare con firma
 digitale <#come-firmare-con-firma-digitale>`__
 
-**ATTENZIONE: I documenti devono avere una dimensione massima di 15
-MB.**
-
-Il sistema non permette il caricamento di documenti con dimensione
-maggiore.
+.. attention:: I documenti devono avere una dimensione massima di 15
+  MB.**
+  Il sistema non permette il caricamento di documenti con dimensione
+  maggiore.
 
 4.4.1 Allegati non firmati oppure firmati con firma autografa
 -------------------------------------------------------------
@@ -114,14 +113,14 @@ Seleziona il documento, quindi premi il pulsante |image16|
 
 |image17|
 
-**ATTENZIONE:** ogni volta che dovrai caricare un allegato firmato con
-firma digitale, il sistema verificherà che il codice fiscale del
-firmatario sia lo stesso indicato nel modulo e riportato nei dettagli
-del modulo, come mostrato a titolo esemplificativo nell’immagine
-seguente.
+.. attention:: ogni volta che dovrai caricare un allegato firmato con
+  firma digitale, il sistema verificherà che il codice fiscale del
+  firmatario sia lo stesso indicato nel modulo e riportato nei dettagli
+  del modulo, come mostrato a titolo esemplificativo nell’immagine
+  seguente.
 
-|image18|\ In caso non vi sia coerenza tra i due codici fiscali verrà
-mostrato un messaggio di errore e il documento non verrà caricato.
+  |image18|\ In caso non vi sia coerenza tra i due codici fiscali verrà
+  mostrato un messaggio di errore e il documento non verrà caricato.
 
 |image19|
 
