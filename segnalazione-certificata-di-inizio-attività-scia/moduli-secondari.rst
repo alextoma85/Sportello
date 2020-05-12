@@ -43,11 +43,16 @@ intestatario, in particolare:
 
 Prima di entrare nello specifico alcuni consigli utili:
 
-**ATTENZIONE:** ogni volta che dovrai caricare un modulo secondario
-firmato con firma digitale, il sistema verificherà che il codice fiscale
-del firmatario sia lo stesso indicato nel modulo e riportato nei
-dettagli del modulo, come mostrato a titolo esemplificativo
-nell’immagine seguente.
+.. attention:: il corretto procedimento da eseguire per firmare con successo
+  un modulo secondario è riportato in dettaglio nella sezione 5. Appendice.
+  Si invita pertanto a prenderne visione prima della compilazione onde evitare
+  problematiche e malfunzionamenti del sistema.
+
+.. attention:: ogni volta che dovrai caricare un modulo secondario
+  firmato con firma digitale, il sistema verificherà che il codice fiscale
+  del firmatario sia lo stesso indicato nel modulo e riportato nei
+  dettagli del modulo, come mostrato a titolo esemplificativo
+  nell’immagine seguente.
 
 |image4|\ In caso non vi sia coerenza tra i due codici fiscali verrà
 mostrato un messaggio di errore e il documento non verrà caricato.

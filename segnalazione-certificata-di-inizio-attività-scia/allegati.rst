@@ -26,10 +26,9 @@ trovi i seguenti elementi:
 Prima di entrare nello specifico alcune avvertenze di carattere
 generale:
 
-**ATTENZIONE:** i documenti da allegare devono essere in formato PDF/A.
-
-In caso richiedano firma digitale dovranno comunque essere convertiti in
-formato PDF/A prima di apporre la firma.
+.. attention:: i documenti da allegare devono essere in formato PDF/A.
+  In caso richiedano firma digitale dovranno comunque essere convertiti in
+  formato PDF/A prima di apporre la firma.
 
 Per istruzioni dettagliate su come salvare/convertire un documento in
 formato PDF/A si rimanda alla sezione `5.1 Come salvare un documento in
