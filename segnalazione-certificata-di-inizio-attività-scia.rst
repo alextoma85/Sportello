@@ -1,5 +1,5 @@
 4. Segnalazione certificata di inizio attività (Scia)
-=====================================================
+-----------------------------------------------------
 
 Per presentare la **segnalazione certificata di inizio attività (Scia)**
 seleziona la relativa voce, come indicato in figura.

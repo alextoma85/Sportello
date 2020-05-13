@@ -1,5 +1,5 @@
 2.1 Accedi ai servizi
-=====================
+---------------------
 
 Per accedere ai servizi seleziona l’\ **area tematica di interesse** tra
 quelle presenti nella schermata iniziale.

@@ -1,5 +1,5 @@
 GUIDA ALLO SPORTELLO ONLINE DEL COMUNE DI TRENTO
-================================================
+------------------------------------------------
 
 Presentazione della Scia edilizia
 -----------------------------------

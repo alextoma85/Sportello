@@ -1,7 +1,7 @@
 .. _53PdfA:
 
 5.3 Unire o dividere PDF / convertire foto in PDF
-=================================================
+-------------------------------------------------
 
 Il programma gratuito `PDFill
 Free <http://www.pdfill.com/download.html>`__ permette di compiere

@@ -1,5 +1,5 @@
 1.2 Raggiungere lo Sportello Online
-===================================
+-----------------------------------
 
 Entra in internet da qualunque computer o tablet che abbia una
 connessione alla rete o al wifi. Trovi lo Sportello Online del Comune di

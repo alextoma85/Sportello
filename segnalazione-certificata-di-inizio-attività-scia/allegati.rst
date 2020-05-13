@@ -1,7 +1,7 @@
 .. _44Allegati:
 
 4.4 Allegati
-============
+------------
 
 La Scia prevede la necessità di allegare al modulo principale diversi
 allegati.
@@ -45,7 +45,7 @@ alla sezione :ref:`52Firma`
   maggiore.
 
 4.4.1 Allegati non firmati oppure firmati con firma autografa
--------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questo caso il blocco per il caricamento degli allegati avrà il
 seguente aspetto
@@ -88,7 +88,7 @@ Dalla stessa schermata potrai:
 |image10|
 
 4.4.2 Allegati firmati con firma digitale
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questo caso il blocco per il caricamento degli allegati avrà il
 seguente aspetto

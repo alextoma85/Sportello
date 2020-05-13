@@ -1,5 +1,5 @@
 1. Cos’è lo Sportello Online
-============================
+----------------------------
 
 Lo Sportello Online è un potente strumento che permette a cittadini,
 professionisti e imprese di presentare digitalmente tutte le pratiche

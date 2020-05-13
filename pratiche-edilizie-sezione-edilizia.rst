@@ -1,5 +1,5 @@
 3. Pratiche Edilizie (Sezione Edilizia)
-=======================================
+---------------------------------------
 
 Questa sezione dello Sportello è dedicata ai servizi e ai moduli
 disponibili in materia di edilizia.

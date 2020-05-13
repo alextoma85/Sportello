@@ -1,7 +1,7 @@
 .. _AccessoSportelloOnline:
 
 1.3 Accedere allo Sportello Online
-==================================
+----------------------------------
 
 Per effettuare l’accesso, clicca su |image0| come indicato in figura. 
 
@@ -13,12 +13,12 @@ l’accesso con CPS/CNS o SPID.
 .. _section-4:
 
 |image2|
-========
+--------
 
 .. _section-5:
 
 1.3.1 Accedi con CPS/CNS
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se vuoi effettuare l’accesso con CPS/CNS, premi il pulsante **Entra con
 CPS**
@@ -31,7 +31,7 @@ con CPS/CNS o con la Security Card, come indicato in figura:
 |image4|
 
 1.3.2 Accedi con SPID
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 Se scegli di entrare con SPID, premi il pulsante **Entra con SPID**
 

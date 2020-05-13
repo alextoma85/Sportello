@@ -1,7 +1,7 @@
 .. _41Compilazione:
 
 4.1 Compilazione del modulo online
-==================================
+----------------------------------
 
 Ti mostriamo ora come compilare il modulo.
 
@@ -9,7 +9,7 @@ Ti mostriamo ora come compilare il modulo.
   progettista/tecnico incaricato, delegato dal titolare
 
 4.1.1 Sei il progettista/tecnico incaricato ma non anche il titolare
---------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per prima cosa dovrai compilare manualmente le informazioni anagrafiche
 del titolare.
@@ -46,7 +46,7 @@ Dovrai invece inserire manualmente i dati non caricati automaticamente.
 successivamente, in un modulo secondario specifico.
 
 4.1.2 Sei al contempo sia progettista che titolare dell’immobile
-----------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Puoi usufruire del recupero automatico di tutti i tuoi dati anagrafici.
 Clicca l’icona nera a forma di omino |image7| per compilare

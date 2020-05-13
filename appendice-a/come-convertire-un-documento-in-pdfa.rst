@@ -1,5 +1,5 @@
 5.1 Come convertire un documento in PDF/A
-=========================================
+-----------------------------------------
 
 Oltre ai programmi di Adobe, MS Office (dalla versione 2007 in poi) e
 Open Office, è possibile trovare in internet numerosi programmi
@@ -21,7 +21,7 @@ Di seguito è presente una breve guida dei programmi utili per convertire
 un documento in PDF/A.
 
 5.1.1 Convertire un file in formato PDF/A con PDFCreator (offline)
-------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dopo aver installato sul tuo computer
 `PDFCreator <http://www.pdfforge.org/>`__, sarà possibile convertire un
@@ -47,7 +47,7 @@ evitare modifiche".
 |image3|
 
 5.1.2 Convertire un file in formato PDF/A con PDFTron (online)
---------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se vuoi convertire un file in PDF/A senza installare alcun software puoi
 utilizzare il programma online

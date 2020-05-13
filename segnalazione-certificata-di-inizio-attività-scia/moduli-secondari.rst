@@ -1,5 +1,5 @@
 4.3 Moduli secondari
-====================
+--------------------
 
 La Scia prevede la necessità di allegare al modulo principale diversi
 moduli secondari, l’interfaccia di completamento dell’istanza (vedi
@@ -59,7 +59,7 @@ mostrato un messaggio di errore e il documento non verrà caricato.
 |image5|
 
 4.3.1 Modulo di delega
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 Il modulo di delega è sempre **obbligatorio** salvo il caso in cui il
 progettista/tecnico incaricato e il titolare dell’immobile oggetto del
@@ -124,7 +124,7 @@ dell’immobile oggetto del procedimento siano la stessa persona non è
 richiesta la compilazione del modulo di delega.
 
 4.3.2 Moduli secondari intestati o cointestati al *Titolare*
-------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rientrano in questa tipologia i seguenti moduli secondari
 
@@ -205,7 +205,7 @@ spunta alla relativa dichiarazione.
    sezione :ref:`44Allegati`.
 
 4.3.3 Moduli secondari intestati al *Progettista/tecnico incaricato*
---------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rientrano in questa tipologia i seguenti moduli secondari
 
@@ -238,7 +238,7 @@ Rientrano in questa tipologia i seguenti moduli secondari
    sezione :ref:`44Allegati`.
 
 4.3.4 Moduli secondari intestati a un *Soggetto terzo*
-------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rientrano in questa tipologia i seguenti moduli secondari
 

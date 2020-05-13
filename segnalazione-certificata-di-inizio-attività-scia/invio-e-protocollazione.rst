@@ -1,5 +1,5 @@
 4.5 Invio e protocollazione dell’istanza
-========================================
+----------------------------------------
 
 Se il modulo è stato completato nella sua totalità e sono stati caricati
 correttamente tutti gli allegati previsti, sulla destra dell’interfaccia

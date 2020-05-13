@@ -1,7 +1,7 @@
 .. _42Interfaccia:
 
 4.2 Interfaccia di completamento dell’istanza
-=============================================
+---------------------------------------------
 
 Una volta completato il modulo principale in ogni sua parte, premendo il
 pulsante |image0| accederai all’interfaccia di completamento

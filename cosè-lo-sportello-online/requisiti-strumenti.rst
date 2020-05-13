@@ -1,12 +1,12 @@
 1.1 Requisiti / Strumenti
-=========================
+-------------------------
 
 Per effettuare l'accesso allo Sportello Online devi essere in possesso
 di credenziali **SPID**, della Tessera Sanitaria/\ **Carta Provinciale
 dei Servizi (CPS)** o della **Carta Nazionale dei Servizi** (**CNS**).
 
 1.1.1 Cos’è SPID  
-------------------
+~~~~~~~~~~~~~~~~
 
 SPID (Sistema Pubblico di Identità Digitale) è il servizio promosso dal
 Governo per accedere ai servizi online di tutta la Pubblica
@@ -21,7 +21,7 @@ indicazioni presenti sul `portale dei servizi online della Provincia di
 Trento <https://www.servizionline.provincia.tn.it/portale/richiedi_spid/1089/richiedi_spid/322234>`__.
 
 1.1.2 Cos’è la Tessera Sanitaria/Carta Provinciale dei Servizi (CPS) 
------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |image1|
 
@@ -79,7 +79,7 @@ trasformate in CRS (Carta Regionale dei Servizi) possono essere
 utilizzate per accedere ai servizi online.
 
 1.1.3 Cos’è la Carta Nazionale dei Servizi (CNS)
---------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |image2|
 Equivalente alla CPS, la Carta Nazionale dei Servizi (CNS) è uno

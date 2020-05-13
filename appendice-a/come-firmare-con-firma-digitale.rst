@@ -1,7 +1,7 @@
 .. _52Firma:
 
 5.2 Come firmare con firma digitale
-===================================
+-----------------------------------
 
 Alcuni moduli o allegati dovranno essere firmati con firma digitale dai
 diversi soggetti a cui sono intestati. Il sistema indica il codice

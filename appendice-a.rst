@@ -1,5 +1,5 @@
 5. Appendice A
-==============
+--------------
 
 .. toctree::
   :maxdepth: 3

@@ -1,5 +1,5 @@
 2.2 La tua scrivania
-====================
+--------------------
 
 Dalla schermata principale, come mostrato in figura, potrai inoltre
 aprire alcuni **strumenti** utili: **domande frequenti**, **pagamenti**,
@@ -33,14 +33,14 @@ permette alcune azioni, descritte di seguito
 |image3|
 
 2.2.3.1 Profilo Utente
-~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^
 
 Qui sono elencati i tuoi dati, che puoi visualizzare e modificare 
 
 |image4|
 
 2.2.3.2 Compilazioni aperte
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In questa pagina puoi visualizzare l’elenco delle istanze da te aperte
 ma non ancora completate e inviate
@@ -49,7 +49,7 @@ ma non ancora completate e inviate
 
 
 2.2.3.3 Compilazioni inviate
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In questa pagina puoi vedere l’elenco delle istanze inviate.
 Selezionando le singole pratiche puoi inoltre visualizzare il relativo

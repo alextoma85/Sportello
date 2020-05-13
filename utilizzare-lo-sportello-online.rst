@@ -1,5 +1,5 @@
 2. Utilizzare lo Sportello Online
-=================================
+---------------------------------
 
 Una volta eseguito l’accesso (vedi sezione :ref:`AccessoSportelloOnline`),
 ti troverai nella pagina principale dello Sportello, dalla quale potrai
