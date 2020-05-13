@@ -3,8 +3,7 @@
 
 La Scia prevede la necessità di allegare al modulo principale diversi
 moduli secondari, l’interfaccia di completamento dell’istanza (vedi
-paragrafo `4.2 Interfaccia di completamento
-dell’istanza <#section-11>`__) presenterà pertanto la seguente
+paragrafo :ref:`42Interfaccia`) presenterà pertanto la seguente
 schermata:
 
 |image0|
@@ -22,9 +21,9 @@ trovi i seguenti elementi:
 |image3|
 
 La compilazione di ciascun modulo secondario segue le stesse modalità
-descritte in precedenza per il modulo principale (vedi paragrafo `4.1
-Compilazione del modulo online <#section-9>`__) e prevede le medesime
-opzioni di salvataggio di una bozza o rientro in compilazione.
+descritte in precedenza per il modulo principale (vedi paragrafo
+:ref:`41Compilazione`) e prevede le medesime opzioni di salvataggio di una
+bozza o rientro in compilazione.
 
 Di seguito si riporta l’elenco di azioni che, in quanto
 progettista/tecnico incaricato, dovrai eseguire per il corretto
@@ -94,7 +93,7 @@ Possono verificarsi due scenari:
 |image9|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione :ref:`44Allegati`.
 
 2. **Il titolare (delegante) possiede un dispositivo di firma digitale**
 
@@ -118,7 +117,7 @@ Possono verificarsi due scenari:
 |image13|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione :ref:`44Allegati`.
 
 **Caso particolare:** nel caso in cui il progettista e il titolare
 dell’immobile oggetto del procedimento siano la stessa persona non è
@@ -157,7 +156,7 @@ scenari:
 |image17|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione :ref:`44Allegati`.
 
 **Nota bene:** scarica una ulteriore copia del modulo secondario
 compilato da conservare firmata presso il tuo studio. Apponi quindi la
@@ -180,7 +179,7 @@ spunta alla relativa dichiarazione.
 |image22|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione `:ref:`44Allegati`.
 
 -  Scarica una ulteriore copia del modulo secondario compilato
    utilizzando il pulsante |image23|
@@ -203,7 +202,7 @@ spunta alla relativa dichiarazione.
 |image26|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione :ref:`44Allegati`.
 
 4.3.3 Moduli secondari intestati al *Progettista/tecnico incaricato*
 --------------------------------------------------------------------
@@ -236,7 +235,7 @@ Rientrano in questa tipologia i seguenti moduli secondari
 |image30|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione :ref:`44Allegati`.
 
 4.3.4 Moduli secondari intestati a un *Soggetto terzo*
 ------------------------------------------------------
@@ -274,7 +273,7 @@ Rientrano in questa tipologia i seguenti moduli secondari
 |image34|
 
 -  Per informazioni sulla procedura per caricare gli allegati vai alla
-   sezione `4.4 Allegati <#allegati>`__.
+   sezione :ref:`44Allegati`.
 
 .. |image0| image:: /media/image79.png
    :width: 7.08973in

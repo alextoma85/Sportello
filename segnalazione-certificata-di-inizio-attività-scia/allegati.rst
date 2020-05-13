@@ -1,3 +1,5 @@
+:: _44Allegati:
+
 4.4 Allegati
 ============
 
@@ -5,8 +7,8 @@ La Scia prevede la necessità di allegare al modulo principale diversi
 allegati.
 
 Dopo aver salvato il modulo principale e/o i vari moduli secondari,
-nell’interfaccia di completamento dell’istanza (vedi paragrafo `4.2
-Interfaccia di completamento dell’istanza <#section-11>`__)
+nell’interfaccia di completamento dell’istanza
+(vedi paragrafo :ref:`42Interfaccia`)
 
 |image0|
 
@@ -31,13 +33,11 @@ generale:
   formato PDF/A prima di apporre la firma.
 
 Per istruzioni dettagliate su come salvare/convertire un documento in
-formato PDF/A si rimanda alla sezione `5.1 Come salvare un documento in
-PDF/A <#come-convertire-un-documento-in-pdfa>`__ o al link seguente:
+formato PDF/A si rimanda alla sezione :ref:`51PdfA` o al link seguente:
 https://sportello.comune.trento.it/faq:s_italia:cosa.formato.pdf.a
 
 Per istruzioni dettagliate sul processo di firma digitale si rimanda
-alla sezione `5.2 Come firmare con firma
-digitale <#come-firmare-con-firma-digitale>`__
+alla sezione :ref:`52Firma`
 
 .. attention:: I documenti devono avere una dimensione massima di 15
   MB.**

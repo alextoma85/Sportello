@@ -1,10 +1,9 @@
 2. Utilizzare lo Sportello Online
 =================================
 
-Una volta eseguito l’accesso (vedi sezione `1.3 Accedere allo Sportello
-Online <#accedere-allo-sportello-online>`__), ti troverai nella pagina
-principale dello Sportello, dalla quale potrai accedere ai diversi
-servizi e strumenti disponibili. 
+Una volta eseguito l’accesso (vedi sezione :ref:`AccessoSportelloOnline`),
+ti troverai nella pagina principale dello Sportello, dalla quale potrai
+accedere ai diversi servizi e strumenti disponibili. 
 
 |image0|
 
