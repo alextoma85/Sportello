@@ -1,4 +1,4 @@
-La tua scrivania
+2.2 La tua scrivania
 --------------------
 
 Dalla schermata principale, come mostrato in figura, potrai inoltre
@@ -7,7 +7,7 @@ aprire alcuni **strumenti** utili: **domande frequenti**, **pagamenti**,
 
 |image0|
 
-Domande frequenti
+2.2.1 Domande frequenti
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Qui troverai le domande e le risposte alle problematiche più frequenti
