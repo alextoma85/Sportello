@@ -3,7 +3,7 @@
 
 Se il modulo è stato completato nella sua totalità e sono stati caricati
 correttamente tutti gli allegati previsti, sulla destra dell’interfaccia
-di completamento dell’istanza (vedi paragrafo :ref:`42-Interfaccia`)
+di completamento dell’istanza (vedi paragrafo :ref:`42Interfaccia`)
 comparirà il seguente messaggio
 
 |image0|
@@ -14,12 +14,13 @@ pulsante |image1|
 |image2|
 
 Premendo |image3| l’interfaccia di completamento dell’istanza (vedi
-paragrafo :ref:`42-Interfaccia` assumerà quindi il seguente aspetto.
+paragrafo :ref:`42Interfaccia` assumerà quindi il seguente aspetto.
 
 |image4|\ Dopo circa 5 minuti l’istanza verrà automaticamente
 protocollata e potrai verificare l’avvenuta protocollazione e il numero
 di protocollo associato alla tua istanza aggiornando l’interfaccia di
-completamento dell’istanza (vedi paragrafo :ref:`42-Interfaccia`) cliccando il pulsante
+completamento dell’istanza (vedi paragrafo :ref:`42Interfaccia`) cliccando il
+pulsante
 |image5|
 in alto a sinistra della schermata del tuo pc, o premendo il tasto
 **F5** sulla tastiera del computer.
@@ -31,10 +32,10 @@ in alto a sinistra della schermata del tuo pc, o premendo il tasto
   inviato e i relativi numeri di protocollo dalla pagina delle compilazioni
   inviate nella tua Scrivania personale)
 
-L’interfaccia di completamento dell’istanza (vedi paragrafo `4.2
-Interfaccia di completamento dell’istanza <#section-11>`__) ti
-permetterà ora di visualizzare e, se necessario, scaricare alcuni file
-relativi all’istanza che hai inviato, come mostrato in figura.
+L’interfaccia di completamento dell’istanza
+(vedi paragrafo :ref:`42Interfaccia`) ti permetterà ora di visualizzare e,
+se necessario, scaricare alcuni file relativi all’istanza che hai inviato,
+come mostrato in figura.
 
 |image7|
 
