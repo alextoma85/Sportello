@@ -13,7 +13,6 @@ l’accesso con CPS/CNS o SPID.
 .. _section-4:
 
 |image2|
---------
 
 .. _section-5:
 

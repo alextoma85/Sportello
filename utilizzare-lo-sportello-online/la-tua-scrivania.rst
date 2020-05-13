@@ -1,4 +1,4 @@
-2.2 La tua scrivania
+La tua scrivania
 --------------------
 
 Dalla schermata principale, come mostrato in figura, potrai inoltre
@@ -7,8 +7,8 @@ aprire alcuni **strumenti** utili: **domande frequenti**, **pagamenti**,
 
 |image0|
 
-2.2.1 Domande frequenti
------------------------
+Domande frequenti
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Qui troverai le domande e le risposte alle problematiche più frequenti
 di chi utilizza lo Sportello
@@ -16,7 +16,7 @@ di chi utilizza lo Sportello
 |image1|
 
 2.2.2 Pagamenti
----------------
+~~~~~~~~~~~~~~~
 
 Qui troverai le informazioni relative ai pagamenti richiesti da alcuni
 dei servizi messi a disposizione sullo Sportello e le indicazioni sulle
@@ -25,7 +25,7 @@ relative modalità di pagamento
 |image2|
 
 2.2.3 Scrivania di *“NOME e COGNOME”*
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La tua scrivania personale riporta i dati collegati al tuo profilo e
 permette alcune azioni, descritte di seguito
