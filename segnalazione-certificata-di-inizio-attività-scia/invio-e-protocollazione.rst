@@ -15,14 +15,12 @@ pulsante |image1|
 |image2|
 
 Premendo |image3| l’interfaccia di completamento dell’istanza (vedi
-paragrafo `4.2 Interfaccia di completamento
-dell’istanza <#section-11>`__) assumerà quindi il seguente aspetto.
+paragrafo :ref:'42 Interfaccia' assumerà quindi il seguente aspetto.
 
 |image4|\ Dopo circa 5 minuti l’istanza verrà automaticamente
 protocollata e potrai verificare l’avvenuta protocollazione e il numero
 di protocollo associato alla tua istanza aggiornando l’interfaccia di
-completamento dell’istanza (vedi paragrafo `4.2 Interfaccia di
-completamento dell’istanza <#section-11>`__) cliccando il pulsante
+completamento dell’istanza (vedi paragrafo :ref:'42 Interfaccia') cliccando il pulsante
 |image5|
 in alto a sinistra della schermata del tuo pc, o premendo il tasto
 **F5** sulla tastiera del computer.

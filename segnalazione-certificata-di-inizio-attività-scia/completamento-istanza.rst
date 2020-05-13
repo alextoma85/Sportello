@@ -1,3 +1,4 @@
+.. _'42 Interfaccia'
 4.2 Interfaccia di completamento dell’istanza
 =============================================
 
