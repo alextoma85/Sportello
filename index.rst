@@ -1,8 +1,6 @@
-GUIDA ALLO SPORTELLO ONLINE DEL COMUNE DI TRENTO
-------------------------------------------------
+GUIDA ALLO SPORTELLO ONLINE DEL COMUNE DI TRENTO - Presentazione della Scia edilizia
+====================================================================================
 
-Presentazione della Scia edilizia
------------------------------------
 Questa guida ti aiuterà ad accedere allo Sportello Online del Comune di
 Trento e a compilare il modulo per presentare la **segnalazione
 certificata di inizio attività (Scia)** da qualunque computer o
