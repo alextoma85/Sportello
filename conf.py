@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Guida allo Sportello Online"
+settings_project_name = "Guida allo Sportello Online - Presentazione Scia Edlizia"
 settings_copyright_copyleft = "CC-BY 3.0"
-settings_editor_name = "Alex - Comune di Trento"
+settings_editor_name = "Comune di Trento"
 settings_file_name = 'Guida Sportello Online'
 
 
@@ -136,7 +136,7 @@ html_last_updated_fmt = '%d/%m/%Y'
 #html_domain_indices = True
 
 # If false, no index is generated.
-html_use_index = True
+#html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
 #html_split_index = False
