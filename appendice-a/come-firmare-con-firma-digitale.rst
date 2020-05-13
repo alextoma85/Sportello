@@ -1,4 +1,4 @@
-:: _52Firma:
+.. _52Firma:
 
 5.2 Come firmare con firma digitale
 ===================================

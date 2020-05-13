@@ -1,4 +1,4 @@
-:: _53PdfA:
+.. _53PdfA:
 
 5.3 Unire o dividere PDF / convertire foto in PDF
 =================================================

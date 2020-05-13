@@ -1,4 +1,4 @@
-:: _44Allegati:
+.. _44Allegati:
 
 4.4 Allegati
 ============
