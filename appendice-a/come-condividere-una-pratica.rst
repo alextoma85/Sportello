@@ -27,6 +27,14 @@ Premendo il tasto comparirà la seguente finestra che permette di
 aggiungere un utente.
 
 
+| |image3|
+
+Cliccando il tasto evidenziato a lato compare un campo dove è
+possibile inserire un testo.
+
+.. attention:: Va inserito il codice fiscale della persona/tecnico/professionista
+  che si vuole autorizzare ad accedere al modulo
+
 |image4|
 
 Una volta inserito il codice fiscale è sufficiente premere il tasto
