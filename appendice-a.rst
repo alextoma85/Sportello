@@ -8,3 +8,4 @@
   appendice-a/come-convertire-un-documento-in-pdfa.rst
   appendice-a/come-firmare-con-firma-digitale.rst
   appendice-a/unire-o-dividere-pdf-convertire-foto-in-pdf.rst
+  appendice-a/come-condividere-una-pratica.rst
