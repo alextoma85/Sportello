@@ -26,20 +26,6 @@ utente autorizzato a compilare e trasmettere la pratica
 Premendo il tasto comparirà la seguente finestra che permette di
 aggiungere un utente.
 
-+-----------------------------------+-----------------------------------+
-| |image3|                          | Cliccando il tasto evidenziato a  |
-|                                   | lato compare un campo dove è      |
-|                                   | possibile inserire un testo.      |
-|                                   |                                   |
-|                                   | +------------------------------+  |
-|                                   | | ATTENZIONE: Va inserito il   |  |
-|                                   | | codice fiscale della         |  |
-|                                   | | persona/tecnico/professionis |  |
-|                                   | | ta                           |  |
-|                                   | | che si vuole autorizzare ad  |  |
-|                                   | | accedere al modulo.          |  |
-|                                   | +------------------------------+  |
-+-----------------------------------+-----------------------------------+
 
 |image4|
 
